@@ -12,7 +12,7 @@ Lo que más me atrae de una posición en Análisis de Datos es la oportunidad de
 - Data Visualization
 - Reporting
 - Análisis Estadístico
-- PoweBI
+- PowerBI
 - Tableau
 ### Soft Skills
 Comunicación Efectiva | Liderazgo | Resolución de Problemas | Pensamiento Analítico | Trabajo Remoto
