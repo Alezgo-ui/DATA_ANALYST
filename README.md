@@ -1,6 +1,6 @@
 # Acerca de mí
 
-Analista de Datos actualmente en formación con conocimientos en Excel, SQL y Python. Cuento con experiencia en soporte tecnológico, atención al cliente en inglés y coordinación de equipos remotos. Destaco por mi capacidad para analizar problemas, aprender rápidamente y trabajar de manera colaborativa, aportando soluciones prácticas en entornos tecnológicos dinámicos.
+Soy Analista de Datos bilingüe, especializado en BI y reporting. Sé trabajar con SQL, Python y Power BI para convertir datos crudos en dashboards y reportes que ayudan a decidir más rápido. Pero mi verdadera fortaleza es otra: sé traducir información compleja en algo que cualquiera pueda entender, una habilidad que perfeccioné años antes de tocar un dataset, interpretando en tiempo real bajo presión. Busco mi primera posición como Data Analyst, remota o en México, donde ese mismo rigor y esa misma claridad puedan sumar desde el primer día.
 
 Lo que más me atrae de una posición en Análisis de Datos es la oportunidad de transformar información en soluciones que permitan comprender mejor los problemas, optimizar procesos y apoyar la toma de decisiones. 
 
@@ -12,7 +12,8 @@ Lo que más me atrae de una posición en Análisis de Datos es la oportunidad de
 - Data Visualization
 - Reporting
 - Análisis Estadístico
-
+- PoweBI
+- Tableau
 ### Soft Skills
 Comunicación Efectiva | Liderazgo | Resolución de Problemas | Pensamiento Analítico | Trabajo Remoto
 
