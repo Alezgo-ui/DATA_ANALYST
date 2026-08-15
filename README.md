@@ -103,5 +103,5 @@ El objetivo del banco es identificar en qué ciudades invertir en infraestructur
 
 
 
-**Explora más detalles del proyecto en el [repositorio completo](https://github.com/Alezgo-ui/adb_mobility_economy_project).** 
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/Alezgo-ui).** 
 
